@@ -69,7 +69,7 @@ header #toggle::after{
     width: 100%;
     min-height: 100vh;
     padding: 100px;
-    background: url('images/bk.jpeg');
+    background: url('/images/bk.jpeg');
     background-blend-mode: darken;
     background-color: rgba(0, 0, 0, 0.719);
     background-size:cover;
@@ -454,7 +454,7 @@ header #toggle::after{
 }
 .grid-item1 {
     background-color: rgb(236, 135, 250);
-    background: url('images/imagen1.PNG');
+    background: url('/images/imagen1.PNG');
     background-position: center;
     background-size:contain ;
     background-repeat: no-repeat;
@@ -462,7 +462,7 @@ header #toggle::after{
 
 .grid-item2 {
     background-color: lightskyblue;
-    background: url('images/imagen1.PNG');
+    background: url('/images/imagen1.PNG');
     background-position: center;
     background-size:contain ;
     background-repeat: no-repeat;
@@ -470,7 +470,7 @@ header #toggle::after{
 
 .grid-item3 {
     background-color: rgb(250, 248, 135);
-    background: url('images/imagen1.PNG');
+    background: url('/images/imagen1.PNG');
     background-position: center;
     background-size:contain ;
     background-repeat: no-repeat;
@@ -478,7 +478,7 @@ header #toggle::after{
 
 .grid-item4 {
     background-color: rgb(162, 250, 135);
-    background: url('images/imagen1.PNG');
+    background: url('/images/imagen1.PNG');
     background-position: center;
     background-size:contain ;
     background-repeat: no-repeat;
