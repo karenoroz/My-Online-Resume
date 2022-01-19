@@ -92,7 +92,7 @@ header #toggle::after{
     right: -200px;
     width: 400px;
     height: 100vh;
-    background: #724770;
+    background: #DB91AE;
     z-index: 1;
     display: grid;
     place-items: center;
@@ -134,7 +134,7 @@ header #toggle::after{
 }
 
 .content h2 span{
-    color: #724770;
+    color: #DB91AE;
 
     font-size: 1.2em;
 
