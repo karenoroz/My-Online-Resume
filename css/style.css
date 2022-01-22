@@ -503,24 +503,26 @@ header #toggle::after{
 
 .grid-item3 {
    
-    background: url('../images/imagen1.PNG');
+    background: url('../images/egipto.png');
     background-position: center;
     background-size:contain ;
     background-repeat: no-repeat;
+    height: 224px;
     
 }
 
 .grid-item4 {
     
-    background: url('../images/imagen1.PNG');
+    background: url('../images/Captura.PNG');
     background-position: center;
     background-size:contain ;
     background-repeat: no-repeat;
+    height: 224px;
 }
 
 .grid-item1:hover{
     background-color: #ab4493;
-    background-blend-mode:soft-light;
+  background-blend-mode:soft-light;
 }
 .grid-item2:hover{
     background-color: #ab4493;
